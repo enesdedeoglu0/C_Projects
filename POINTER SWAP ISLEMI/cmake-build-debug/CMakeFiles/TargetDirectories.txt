@@ -1,3 +1,0 @@
-C:/Users/Monster/Desktop/CLİON/KODLAR/POINTER SWAP ISLEMI/cmake-build-debug/CMakeFiles/POINTER_SWAP_ISLEMI.dir
-C:/Users/Monster/Desktop/CLİON/KODLAR/POINTER SWAP ISLEMI/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Monster/Desktop/CLİON/KODLAR/POINTER SWAP ISLEMI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
