@@ -1,0 +1,3 @@
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/USE OF MEMCMP/cmake-build-debug/CMakeFiles/USE_OF_MEMCMP.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/USE OF MEMCMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/USE OF MEMCMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
