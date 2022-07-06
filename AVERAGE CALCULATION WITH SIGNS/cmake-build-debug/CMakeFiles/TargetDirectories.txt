@@ -1,3 +1,0 @@
-C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/AVERAGE CALCULATION WITH SIGNS/cmake-build-debug/CMakeFiles/ISARETCILERLE_ORT_HESAPLAMA.dir
-C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/AVERAGE CALCULATION WITH SIGNS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/AVERAGE CALCULATION WITH SIGNS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
