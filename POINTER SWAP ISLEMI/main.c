@@ -1,3 +1,11 @@
+/*
+---------------------------------------
+CREATED BY ENES DEDEOĞLU ~~~ 15.05.2022 
+e.dedeoglu@mekatronik.org.tr
+--------------------------------------
+*/
+
+
 #include <stdio.h>
 
 void terstenYaz(int *dizi, int n);
