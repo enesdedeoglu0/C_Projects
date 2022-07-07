@@ -1,0 +1,3 @@
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/SUM OF ARRAY MEMBERS/cmake-build-debug/CMakeFiles/SUM_OF_ARRAY_MEMBERS.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/SUM OF ARRAY MEMBERS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/SUM OF ARRAY MEMBERS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
