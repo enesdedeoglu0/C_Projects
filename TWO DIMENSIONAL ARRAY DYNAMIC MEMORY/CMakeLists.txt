@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(TWO_DIMENSIONAL_ARRAY_DYNAMIC_MEMORY C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(TWO_DIMENSIONAL_ARRAY_DYNAMIC_MEMORY main.c)

@@ -1,0 +1,3 @@
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/TWO DIMENSIONAL ARRAY DYNAMIC MEMORY/cmake-build-debug/CMakeFiles/TWO_DIMENSIONAL_ARRAY_DYNAMIC_MEMORY.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/TWO DIMENSIONAL ARRAY DYNAMIC MEMORY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Monster/Desktop/1.SINIF NOTLAR/CLİON/KODLAR/TWO DIMENSIONAL ARRAY DYNAMIC MEMORY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
